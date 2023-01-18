@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965278350185",
+    "project_id": "easy-paisa-coin-app",
+    "storage_bucket": "easy-paisa-coin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965278350185:android:ce095f30db2d23019a9bf8",
+        "android_client_info": {
+          "package_name": "com.example.easy_paisa_coin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965278350185-uoqet4mocqdhr97si06hdptnufhmlo4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5bEsPszFDz_SddPE-OtabEaAjtjBoe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965278350185-uoqet4mocqdhr97si06hdptnufhmlo4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
